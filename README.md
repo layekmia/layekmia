@@ -1,6 +1,6 @@
 <!-- 👨‍💻 Profile Banner -->
 <p align="center">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuOeFe80OCIMvGLkCxBn8O-cbj6D70aconVw&s" alt="Layek Miah Banner" style="width:100%; border-radius:10px;" />
+  <img src="https://i.ibb.co/dw6jpP1v/Chat-GPT-Image-Jun-25-2025-12-50-11-PM.png" alt="Layek Miah Banner" style="width:100%; border-radius:10px;" />
 </p>
 
 # 💫 Hi 👋, I'm **Layek Miah**
