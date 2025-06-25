@@ -1,99 +1,24 @@
-<!-- Profile Banner -->
-<img src="https://i.ibb.co/gFdc1ztT/6382213.jpg" alt="Layek Miah Banner" style="width:100%; border-radius:10px;" />
 
-<h1 align="center">Hi, I'm <span style="color:#007acc;">Layek Miah</span></h1>
-<h3 align="center">Front-End Developer | JavaScript Enthusiast | React Developer</h3>
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/layekmia.webdev) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/layekmiah-webdeveloper) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:layek.webdev@gmail.com) 
 
-<p align="center">
-  <a href="mailto:layek@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/layekmiah-webdeveloper" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://yourportfolio.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=firefox&logoColor=white"/></a>
-  <a href="https://github.com/layekmiah" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-</p>
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Semantic UI React](https://img.shields.io/badge/Semantic%20UI%20React-%2335BDB2.svg?style=for-the-badge&logo=SemanticUIReact&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=layekmia&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=layekmia&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=layekmia&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
----
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=layekmia&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### 🧑‍💻 About Me
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-🚀 I’m a passionate front-end developer from Bangladesh who transforms ideas into responsive, user-friendly web interfaces. I love writing clean code, solving problems, and bringing design to life through JavaScript.
-
-- 🔭 I’m currently building full-stack web apps using the MERN stack
-- 🌱 Improving my backend skills with Node.js and MongoDB
-- 🎯 2025 Goal: Land a remote front-end developer role
-- 🧠 Learning focus: Redux, Next.js, Firebase Auth, REST APIs
-- 💬 Ask me about React, Tailwind CSS, or Git
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=layekmia&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=layekmia&icon=0&color=0)](https://visitcount.itsvg.in)
 
-### 🛠️ Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,tailwind,react,redux,nextjs,nodejs,express,mongodb,firebase,git,github,vscode" />
-</p>
-
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=layekmiah&show_icons=true&theme=tokyonight&rank_icon=github" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=layekmiah&layout=compact&theme=tokyonight" height="170" />
-</p>
-
----
-
-### 🔥 GitHub Current Streak
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=layekmiah&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
----
-
-### 📌 Featured Projects
-
-Here are a few highlighted projects. Each one has a detailed `README.md` inside.
-
-#### 🧾 Invoice Generator App
-
-> Generate, save, and print beautiful invoices dynamically.
-
-- Stack: React, Tailwind, Node.js, MongoDB
-- Features: PDF Export, Auth, CRUD
-- 🔗 [View Repo](https://github.com/layekmiah/invoice-generator)
-
-#### 🪴 Plant Care Tracker
-
-> Track watering schedules, plant types, and care notes.
-
-- Stack: MERN Stack, Firebase Auth
-- Features: Authentication, Dashboard, Plant CRUD
-- 🔗 [View Repo](https://github.com/layekmiah/plant-care-tracker)
-
-#### 🛍️ Full Stack E-Commerce
-
-> Real-time shopping cart with Firebase authentication and secure checkout.
-
-- Stack: React, Redux Toolkit, Express.js, MongoDB
-- 🔗 [View Repo](https://github.com/layekmiah/mern-ecommerce)
-
----
-
-### 📫 Contact Me
-
-- Email: **layek@example.com**
-- LinkedIn: [linkedin.com/in/layekmiah](https://linkedin.com/in/layekmiah)
-- Portfolio: [yourportfolio.com](https://yourportfolio.com)
-
----
-
-> 🔗 Tip: Replace links and images with your actual data (email, portfolio, banner image, etc.).
-
----
-
-Would you like me to:
-- Customize this with your **real banner image**?
-- Create detailed `README.md` for each project?
-- Help host your **GitHub stats** on Vercel?
-
-Let me know — I can do all of that for you.
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
