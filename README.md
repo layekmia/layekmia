@@ -1,6 +1,6 @@
 <!-- 👨‍💻 Profile Banner -->
 <p align="center">
-  <img src="https://i.ibb.co/MybHr80P/Dark-Green-and-Black-Abstarct-Dots-Web-Designer-Email-Header.png" alt="Layek Miah Banner" style="width:100%; border-radius:10px;" />
+  <img src="https://i.ibb.co/JRXZcYDw/Layek-Miah.png" alt="Layek Miah Banner" style="width:100%; border-radius:10px;" />
 </p>
 
 # 💫 Hi 👋, I'm **Layek Miah**
