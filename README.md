@@ -5,7 +5,7 @@
 
 # 💫 Hi 👋, I'm **Layek Miah**
 
-**🎯 Front-End Web Developer | React.js | Tailwind CSS | JavaScript**
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=MERN+Stack+developer;JavaScript+developer;Front-End+web+developer+;Learning+Next+js" alt="Typing SVG" /></a>
 
 📍 Based in Bangladesh | Building responsive, user-centric websites with performance in mind
 
