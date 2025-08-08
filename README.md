@@ -10,9 +10,9 @@
 ---
 
 ### 👨‍💻 About Me
-Hi, I'm Layek Miah, a passionate Frontend Developer from Bangladesh, focused on the MERN stack (MongoDB, Express.js, React.js, Node.js). I build fast, responsive, and user-friendly web apps.
+Hi, I'm Layek Miah, a passionate Frontend Developer, focused on the MERN stack (MongoDB, Express.js, React.js, Node.js). I build fast, responsive, and user-friendly web apps.
 
-I'm currently developing ProFast, a full-stack Hotel booking system, while diving deeper into Next.js and TypeScript.
+I'm currently developing, a full-stack Hotel booking system, while diving deeper into Next.js and TypeScript.
 
 Always exploring new tech, I aim to deliver clean, scalable, and modern web solutions.
 
