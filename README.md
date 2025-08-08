@@ -11,8 +11,8 @@
 
 ---
 
-## 🧑‍💼 About Me
-Hi, I'm Omar Faruk, a passionate Frontend Developer from Bangladesh, focused on the MERN stack (MongoDB, Express.js, React.js, Node.js). I build fast, responsive, and user-friendly web apps.
+### 👨‍💻 About Me
+Hi, I'm Layek Miah, a passionate Frontend Developer from Bangladesh, focused on the MERN stack (MongoDB, Express.js, React.js, Node.js). I build fast, responsive, and user-friendly web apps.
 
 I'm currently developing ProFast, a full-stack Hotel booking system, while diving deeper into Next.js and TypeScript.
 
