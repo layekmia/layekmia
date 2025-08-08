@@ -3,6 +3,7 @@
   <img src="https://i.ibb.co/8D1rfBM5/BLack-Minimalist-Corporate-Staff-Identity-Linked-In-Banner.png" alt="Layek Miah Banner" style="width:100%; border-radius:10px;" />
 </p>
 
+
 # 💫 Hi 👋, I'm **Layek Miah**
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=MERN+Stack+developer;JavaScript+developer;Front-End+web+developer+;Learning+Next+js" alt="Typing SVG" /></a>
