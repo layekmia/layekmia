@@ -12,15 +12,18 @@
 ---
 
 ## 🧑‍💼 About Me
+Hi, I'm Omar Faruk, a passionate Frontend Developer from Bangladesh, focused on the MERN stack (MongoDB, Express.js, React.js, Node.js). I build fast, responsive, and user-friendly web apps.
 
-- 🔭 **Currently working on:** A full-stack MERN project
-- 🌱 **Currently learning:** Next js
-- 👯 **Looking to collaborate on:** Real-world web applications, open-source front-end projects
-- 🤝 **Open to help with:** Freelance projects, frontend architecture, UI performance
-- 💬 **Ask me about:** React, Tailwind, State Management, API Integration
-- 📫 **Reach me at:** [layek.webdev@gmail.com](mailto:layek.webdev@gmail.com)
-- ⚡ **Fun fact:** I love tech—and tech loves me back!
+I'm currently developing ProFast, a full-stack Hotel booking system, while diving deeper into Next.js and TypeScript.
 
+Always exploring new tech, I aim to deliver clean, scalable, and modern web solutions.
+
+- 🔭 **Currently working on:** A full-stack MERN project  
+- 🌱 **Learning:** Next.js  
+- 👯 **Open to collaborate on:** Real-world web apps, open-source front-end projects  
+- 🤝 **Available for:** Freelance work, UI architecture, performance optimization  
+- 💬 **Tech stack:** React, Tailwind CSS, State Management, API Integration  
+- 📫 **Contact:** [layek.webdev@gmail.com](mailto:layek.webdev@gmail.com)
 ---
 
 ## 🌐 Connect with Me
