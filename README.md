@@ -1,5 +1,5 @@
 <!-- 👨‍💻 Profile Banner -->
-![Banner](./github_banner.png)
+![Banner](./banner.png)
 
 
 # 💫 Hi 👋, I'm **Layek Miah**
