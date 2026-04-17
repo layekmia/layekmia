@@ -1,7 +1,5 @@
 <!-- 👨‍💻 Profile Banner -->
-<p align="center">
-  <img src="https://i.ibb.co/8D1rfBM5/BLack-Minimalist-Corporate-Staff-Identity-Linked-In-Banner.png" alt="Layek Miah Banner" style="width:100%; border-radius:10px;" />
-</p>
+![Banner](./github_banner.png)
 
 
 # 💫 Hi 👋, I'm **Layek Miah**
